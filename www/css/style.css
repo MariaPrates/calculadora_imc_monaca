@@ -1,0 +1,17 @@
+/**/
+
+.text{
+				text-align: center;
+			}
+			.aling{
+				margin-left: auto;
+				margin-right: auto;
+				align-items: center;
+			}
+			#Tabela{
+				height: 400px;
+				width: 400px;
+			}
+			#Abaixo,#Normal, #Acima{
+				display:none;
+			}
